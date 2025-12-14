@@ -5,7 +5,6 @@ Minecraft Authentication Library
 支持微软账户认证、令牌管理和玩家信息获取。
 
 版本: 1.0.0
-作者: Minecraft Downloader Team
 """
 
 import os
