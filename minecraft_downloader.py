@@ -4,8 +4,7 @@ Minecraft Downloader Library
 一个高度可扩展的Minecraft版本下载器和启动器库。
 提供多线程下载、版本过滤、进度跟踪等高级功能。
 
-版本: 1.0.0
-作者: Minecraft Downloader Team
+版本: 1.1.0
 """
 
 import requests
